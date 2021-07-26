@@ -1,0 +1,9 @@
+{
+    "prefix": "!",
+    "token": "discord_token_here",
+    "socials": [
+        {"title": "instagram", "url": "https://instagram.com/username"},
+        {"title": "twitter", "url": "https://twitter.com/username"},
+        {"title": "twitch", "url": "https://twitch.com/username"}
+    ]
+}
